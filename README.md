@@ -7,3 +7,6 @@ To start the application try:
 `npm start`
 
 Node JS version used: 16.15.0
+
+user: dog
+password: dog
